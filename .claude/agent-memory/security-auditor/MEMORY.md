@@ -1,0 +1,2 @@
+- [Portfolio site IaC state](project_portfolio_site_iac_state.md) — known Terraform gaps (encryption, versioning, logging, headers, backend, .gitignore) as of 2026-07-10 audit
+- [Audit output style](feedback_audit_output_style.md) — deliver findings in chat response, read-only, no report files written
